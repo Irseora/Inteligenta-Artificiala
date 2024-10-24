@@ -1,0 +1,11 @@
+C:\Users\Vivi\Documents\AI\Inteligenta Artificiala\bin\Debug\Inteligenta Artificiala.exe.config
+C:\Users\Vivi\Documents\AI\Inteligenta Artificiala\bin\Debug\Inteligenta Artificiala.exe
+C:\Users\Vivi\Documents\AI\Inteligenta Artificiala\bin\Debug\Inteligenta Artificiala.pdb
+C:\Users\Vivi\Documents\AI\Inteligenta Artificiala\obj\Debug\Inteligenta Artificiala.csproj.AssemblyReference.cache
+C:\Users\Vivi\Documents\AI\Inteligenta Artificiala\obj\Debug\Inteligenta Artificiala.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vivi\Documents\AI\Inteligenta Artificiala\obj\Debug\Inteligenta_Artificiala.Form1.resources
+C:\Users\Vivi\Documents\AI\Inteligenta Artificiala\obj\Debug\Inteligenta_Artificiala.Properties.Resources.resources
+C:\Users\Vivi\Documents\AI\Inteligenta Artificiala\obj\Debug\Inteligenta Artificiala.csproj.GenerateResource.cache
+C:\Users\Vivi\Documents\AI\Inteligenta Artificiala\obj\Debug\Inteligenta Artificiala.csproj.CoreCompileInputs.cache
+C:\Users\Vivi\Documents\AI\Inteligenta Artificiala\obj\Debug\Inteligenta Artificiala.exe
+C:\Users\Vivi\Documents\AI\Inteligenta Artificiala\obj\Debug\Inteligenta Artificiala.pdb
