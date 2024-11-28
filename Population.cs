@@ -11,6 +11,7 @@ namespace Inteligenta_Artificiala
     {
         static int N = 5000;
         static int K = 30;
+
         public List<Solution> solutions;
         public List<Solution> par;
 
@@ -56,6 +57,33 @@ namespace Inteligenta_Artificiala
             }
 
             return toRet;
+        }
+
+        public void Update(int etapa)
+        {
+            solutions.Clear();
+
+            for (int i = 0; i < N; i++)
+            {
+                int idx1, idx2;
+
+                do
+                {
+                    idx1 = random.Next(K);
+                    idx2 = random.Next(K);
+                } while (idx1 == idx2);
+
+                Solution chl = Cross(par[idx1], par[idx2]);
+                chl.Mutate(etapa);
+                solutions.Add(chl);
+            }
+        }
+
+        public void Do(int etapa)
+        {
+            Sort();
+            Selection();
+            Update(etapa + 20);
         }
     }
 }

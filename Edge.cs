@@ -19,7 +19,11 @@ namespace Inteligenta_Artificiala
         public Vertex End { get { return end; } }
         public float Cost { get { return cost; } }
         public string Info { get { return info; } }
-        public float AbsoluteDistance { get { return absoluteDistance; } }
+
+        public float AbsoluteDistance { get {
+                return (float)Math.Sqrt((start.location.X - end.location.X) * (start.location.X - end.location.X) +
+                                        (start.location.Y - end.location.Y) * (start.location.Y - end.location.Y));
+        } }
 
         // ---------------------------------------------------------------
 
