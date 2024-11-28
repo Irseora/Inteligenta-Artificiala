@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Vivi\\.nuget\\packages\\": {}
+    "C:\\Users\\keryv\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vivi\\Documents\\Repos\\Neural Net\\Neural Net.csproj",
+      "projectUniqueName": "E:\\Repos\\Inteligenta-Artificiala\\Neural Net\\Neural Net.csproj",
       "projectName": "Neural Net",
-      "projectPath": "C:\\Users\\Vivi\\Documents\\Repos\\Neural Net\\Neural Net.csproj",
-      "packagesPath": "C:\\Users\\Vivi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vivi\\Documents\\Repos\\Neural Net\\obj\\",
+      "projectPath": "E:\\Repos\\Inteligenta-Artificiala\\Neural Net\\Neural Net.csproj",
+      "packagesPath": "C:\\Users\\keryv\\.nuget\\packages\\",
+      "outputPath": "E:\\Repos\\Inteligenta-Artificiala\\Neural Net\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Vivi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\keryv\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,19 +64,19 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.17, 7.0.17]"
+            "version": "[7.0.20, 7.0.20]"
           },
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[7.0.17, 7.0.17]"
+            "version": "[7.0.20, 7.0.20]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.17, 7.0.17]"
+            "version": "[7.0.20, 7.0.20]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.17, 7.0.17]"
+            "version": "[7.0.20, 7.0.20]"
           }
         ],
         "frameworkReferences": {
@@ -84,7 +84,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

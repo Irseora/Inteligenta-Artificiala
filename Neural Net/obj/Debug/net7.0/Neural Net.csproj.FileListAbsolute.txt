@@ -1,0 +1,15 @@
+E:\Repos\Inteligenta-Artificiala\Neural Net\bin\Debug\net7.0\Neural Net.exe
+E:\Repos\Inteligenta-Artificiala\Neural Net\bin\Debug\net7.0\Neural Net.deps.json
+E:\Repos\Inteligenta-Artificiala\Neural Net\bin\Debug\net7.0\Neural Net.runtimeconfig.json
+E:\Repos\Inteligenta-Artificiala\Neural Net\bin\Debug\net7.0\Neural Net.dll
+E:\Repos\Inteligenta-Artificiala\Neural Net\bin\Debug\net7.0\Neural Net.pdb
+E:\Repos\Inteligenta-Artificiala\Neural Net\obj\Debug\net7.0\Neural Net.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Inteligenta-Artificiala\Neural Net\obj\Debug\net7.0\Neural Net.AssemblyInfoInputs.cache
+E:\Repos\Inteligenta-Artificiala\Neural Net\obj\Debug\net7.0\Neural Net.AssemblyInfo.cs
+E:\Repos\Inteligenta-Artificiala\Neural Net\obj\Debug\net7.0\Neural Net.csproj.CoreCompileInputs.cache
+E:\Repos\Inteligenta-Artificiala\Neural Net\obj\Debug\net7.0\Neural Net.sourcelink.json
+E:\Repos\Inteligenta-Artificiala\Neural Net\obj\Debug\net7.0\Neural Net.dll
+E:\Repos\Inteligenta-Artificiala\Neural Net\obj\Debug\net7.0\refint\Neural Net.dll
+E:\Repos\Inteligenta-Artificiala\Neural Net\obj\Debug\net7.0\Neural Net.pdb
+E:\Repos\Inteligenta-Artificiala\Neural Net\obj\Debug\net7.0\Neural Net.genruntimeconfig.cache
+E:\Repos\Inteligenta-Artificiala\Neural Net\obj\Debug\net7.0\ref\Neural Net.dll
